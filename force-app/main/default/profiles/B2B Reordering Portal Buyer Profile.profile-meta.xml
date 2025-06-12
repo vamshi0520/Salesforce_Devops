@@ -17,10 +17,13 @@
         <readable>false</readable>
     </fieldPermissions>
     <layoutAssignments>
-        <layout>SFB_2__c-SFB_2 Layout</layout>
+        <layout>Account-Account Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>SFB__c-SFB Layout</layout>
+        <layout>SFB_56__c-SFB_56 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>SFB_66__c-SFB_66 Layout</layout>
     </layoutAssignments>
     <userLicense>External Apps Login</userLicense>
     <userPermissions>
