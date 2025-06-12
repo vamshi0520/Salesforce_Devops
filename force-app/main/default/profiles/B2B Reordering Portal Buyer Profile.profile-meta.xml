@@ -22,6 +22,12 @@
     <layoutAssignments>
         <layout>SFB_56__c-SFB_56 Layout</layout>
     </layoutAssignments>
+    <layoutAssignments>
+        <layout>SFB_66__c-SFB_66 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>SFB_77__c-SFB_77 Layout</layout>
+    </layoutAssignments>
     <userLicense>External Apps Login</userLicense>
     <userPermissions>
         <enabled>true</enabled>
