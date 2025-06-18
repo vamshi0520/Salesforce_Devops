@@ -16,11 +16,16 @@
         <field>Account.Field_1__c</field>
         <readable>false</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Account.test_11__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <layoutAssignments>
-        <layout>SFB_2__c-SFB_2 Layout</layout>
+        <layout>Account-Account Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>SFB__c-SFB Layout</layout>
+        <layout>test_1__c-test_1 Layout</layout>
     </layoutAssignments>
     <objectPermissions>
         <allowCreate>true</allowCreate>
@@ -28,16 +33,7 @@
         <allowEdit>true</allowEdit>
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
-        <object>SFB_2__c</object>
-        <viewAllRecords>true</viewAllRecords>
-    </objectPermissions>
-    <objectPermissions>
-        <allowCreate>true</allowCreate>
-        <allowDelete>true</allowDelete>
-        <allowEdit>true</allowEdit>
-        <allowRead>true</allowRead>
-        <modifyAllRecords>true</modifyAllRecords>
-        <object>SFB__c</object>
+        <object>test_1__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <userLicense>Salesforce</userLicense>
@@ -796,10 +792,6 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>ViewMyTeamsDashboards</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>ViewPersonalOrg</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
