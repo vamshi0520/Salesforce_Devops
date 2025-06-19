@@ -158,10 +158,10 @@
     <quickActionList>
        <!-- <quickActionListItems>
             <quickActionName>FeedItem.TextPost</quickActionName>
-        </quickActionListItems> -->
+        </quickActionListItems> 
         <quickActionListItems>
             <quickActionName>FeedItem.ContentPost</quickActionName>
-        </quickActionListItems>
+        </quickActionListItems> -->
         <quickActionListItems>
             <quickActionName>NewTask</quickActionName>
         </quickActionListItems>
