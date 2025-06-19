@@ -29,7 +29,7 @@
     <layoutAssignments>
         <layout>Account-Account Layout</layout>
     </layoutAssignments>
-    <layoutAssignments>
+   <!-- <layoutAssignments>
         <layout>test_1__c-test_1 Layout</layout>
     </layoutAssignments>
     <objectPermissions>
@@ -40,7 +40,7 @@
         <modifyAllRecords>true</modifyAllRecords>
         <object>test_1__c</object>
         <viewAllRecords>true</viewAllRecords>
-    </objectPermissions>
+    </objectPermissions> -->
     <userLicense>Salesforce</userLicense>
     <userPermissions>
         <enabled>true</enabled>
